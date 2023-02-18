@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangingCharacter", "Changi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isConsonantInWord", "isConsonantInWord\isConsonantInWord.csproj", "{34185807-1D48-4466-9C1B-532C031E7C48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voting", "Voting\Voting.csproj", "{1E4BB840-4D85-4295-B56D-D4F98E231DEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{34185807-1D48-4466-9C1B-532C031E7C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34185807-1D48-4466-9C1B-532C031E7C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34185807-1D48-4466-9C1B-532C031E7C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4BB840-4D85-4295-B56D-D4F98E231DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4BB840-4D85-4295-B56D-D4F98E231DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4BB840-4D85-4295-B56D-D4F98E231DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4BB840-4D85-4295-B56D-D4F98E231DEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
