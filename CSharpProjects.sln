@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isConsonantInWord", "isCons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voting", "Voting\Voting.csproj", "{1E4BB840-4D85-4295-B56D-D4F98E231DEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{BC29F00A-111F-4525-8962-95074229466F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1E4BB840-4D85-4295-B56D-D4F98E231DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E4BB840-4D85-4295-B56D-D4F98E231DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E4BB840-4D85-4295-B56D-D4F98E231DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC29F00A-111F-4525-8962-95074229466F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC29F00A-111F-4525-8962-95074229466F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC29F00A-111F-4525-8962-95074229466F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC29F00A-111F-4525-8962-95074229466F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
